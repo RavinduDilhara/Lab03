@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab03_mad</string>
+    <string name="edit_text">Enter a message</string>
+    <string name="send">send</string>
+</resources>
